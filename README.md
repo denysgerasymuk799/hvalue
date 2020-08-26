@@ -37,6 +37,7 @@ What about Google maps, so it is the most convenient and used service, with whic
 # Guidance on how to run our code
 
 1. Firstly, you should open our GitHub code and install dependencies from  requirements.txt. 
+
 Windows:
 ```
 pip install -r requirements.txt 
