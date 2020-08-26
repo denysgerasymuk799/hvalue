@@ -37,7 +37,21 @@ What about Google maps, so it is the most convenient and used service, with whic
 # Guidance on how to run our code
 
 1. Firstly, you should open our GitHub code and install dependencies from  requirements.txt. 
+Windows:
+```
+pip install -r requirements.txt 
+python application.py
+```
+
+UNIX:
+```
+sudo pip install -r requirements.txt
+python3 application.py
+```
+
 2. After that you should run web_server/app.py and open the link of the running app. 
 3. After that you can see a page with receive stations of different organizations on map. You can filter showed stations by your purposes and interests. 
 4. After you have chosen some organization on the map you can get the main information about its addresses of stations to reach them. Logging and registration of organizations can be accessed from the map page. For organizations, they can create their own receive stations for benefactors’ help. 
 
+# License:
+[MIT](https://choosealicense.com/licenses/mit/)
